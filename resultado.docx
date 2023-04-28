@@ -7,3 +7,24 @@ URL-repositório = https://github.com/rozyar/cp2-html.git
 URL-gitpages = https://rozyar.github.io/cp2-html/
 
 //gitpages esta bugado, abra o código na sua máquina para melhor visualização
+
+OBS: Não achei necessario adicionar prints do codigo pois qualquer pessoa já tem acesso ao mesmo via o link do repositorio github.
+
+As paginas criadas foram:
+index.html = pagina principal
+games.html = pagina games
+mobile.html = pagina games
+tecnologie.html = pagina games
+
+As estilizações dos mesmos estão nos arquivos
+
+global.css = estilização global
+index.css = estilização da pagina principal
+games.css = estilização pagina games.html
+tecnologie.css = estilização pagina tecnologie.html
+mobile.css = estilização pagina mobile.html
+
+OBS: global.css foi criado por conter um estilo que será reutilizado diversas vezes nas paginas, o estilo foi primeiramente feito no index.css 
+(Você consegue encontrar no index.css como o codigo foi primeiramente feito), mas depois de um a analise achamos melhor criar um css global proprio para isso.
+
+
