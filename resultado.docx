@@ -25,7 +25,7 @@ tecnologie.css = estilização pagina tecnologie.html
 mobile.css = estilização pagina mobile.html
 
 OBS: global.css foi criado por conter um estilo que será reutilizado diversas vezes nas paginas, o estilo foi primeiramente feito no index.css 
-(Você consegue encontrar no index.css como o codigo foi primeiramente feito), mas depois de um a analise achamos melhor criar um css global proprio para isso.
+(Você consegue encontrar no index.css como o codigo foi primeiramente feito), mas depois de uma analise achamos melhor criar um css global proprio para isso.
 
 
 
